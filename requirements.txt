@@ -1,2 +1,7 @@
 youtube-transcript-api==0.6.1
 spacy==3.6.0
+stanza==1.5.0
+en-core-web-sm==3.6.0
+deepmultilingualpunctuation==1.0.1
+sentencepiece==0.1.99
+nltk==3.8.1
